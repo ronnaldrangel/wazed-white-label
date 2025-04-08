@@ -24,9 +24,9 @@ export default function Layout({ children, title }) {
                                 <div className="flex flex-shrink-0 items-center">
 
                                     <Image
-                                        className="block h-8 w-auto"
-                                        src="/images/icon-dark.svg"
-                                        alt="Wazend Logo"
+                                        className="block h-10 w-auto"
+                                        src="/images/icon.png"
+                                        alt="Logo"
                                         width={236}
                                         height={60}
                                     />
